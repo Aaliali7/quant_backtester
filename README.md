@@ -1,5 +1,5 @@
 # Quant Factor Backtester (Momentum)
-Tests](https://github.com/Aaliali7/quant_backtester/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/Aaliali7/quant_backtester/actions/workflows/tests.yml/badge.svg)
 End-to-end equity factor research pipeline in Python:
 - Downloads prices (yfinance)
 - Builds 12–1 momentum signal (skip 1 month)
